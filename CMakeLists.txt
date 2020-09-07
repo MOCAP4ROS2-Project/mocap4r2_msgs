@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(mocap4ros_msgs)
+project(mocap4ros2_msgs)
 
 find_package(ament_cmake)
 find_package(rosidl_default_generators REQUIRED)
