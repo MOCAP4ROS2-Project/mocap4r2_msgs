@@ -10,6 +10,9 @@ find_package(geometry_msgs REQUIRED)
 set(msg_files
   "msg/Marker.msg"
   "msg/Markers.msg"
+  "msg/MarkerWithId.msg"
+  "msg/MarkersWithId.msg"
+
 )
 
 set(srv_files
