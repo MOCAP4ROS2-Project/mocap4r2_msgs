@@ -1,4 +1,4 @@
-# mocap4ros2_msgs
+# mocap_msgs
 This repository contains the ROS messages necessary to communicate the drivers with the system.
 
 # MOCAP4ROS2
