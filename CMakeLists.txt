@@ -12,7 +12,7 @@ set(msg_files
   "msg/Markers.msg"
   "msg/MarkerWithId.msg"
   "msg/MarkersWithId.msg"
-
+  "msg/Control.msg"
 )
 
 set(srv_files
