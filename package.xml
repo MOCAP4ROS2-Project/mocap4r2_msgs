@@ -2,8 +2,8 @@
   <name>mocap_msgs</name>
   <version>0.0.1</version>
   <description>mocap_msgs</description>
-  <author>David Vargas</author>
-  <maintainer email="david.vargas@urjc.es">David Vargas</maintainer>
+  <author>Lorena Bajo</author>
+  <maintainer email="lorena.bajo@urjc.es">David Vargas</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
