@@ -10,19 +10,10 @@ find_package(geometry_msgs REQUIRED)
 set(msg_files
   "msg/Marker.msg"
   "msg/Markers.msg"
-  "msg/MarkerWithId.msg"
-  "msg/MarkersWithId.msg"
-  "msg/Control.msg"
-)
-
-set(srv_files
-  "srv/ViconCalibSeg.srv"
-  "srv/ViconGrabPose.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   ${msg_files}
-  ${srv_files}
   DEPENDENCIES builtin_interfaces std_msgs geometry_msgs
 )
 
