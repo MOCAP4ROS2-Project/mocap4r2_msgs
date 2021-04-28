@@ -10,6 +10,7 @@ find_package(geometry_msgs REQUIRED)
 set(msg_files
   "msg/Marker.msg"
   "msg/Markers.msg"
+  "msg/ImusInfo.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
