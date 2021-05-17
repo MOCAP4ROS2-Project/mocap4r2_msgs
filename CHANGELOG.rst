@@ -2,8 +2,8 @@
 Changelog for package mocap_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2021-05-17)
+------------------
 * Cleaning
 * ImusInfo added
 * Remove srvs/msgs not used
