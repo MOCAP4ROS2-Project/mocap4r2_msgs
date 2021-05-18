@@ -2,8 +2,8 @@
 Changelog for package mocap_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2021-05-18)
+------------------
 * Change license
 * Update README.md
 * Contributors: Francisco Martín Rico
