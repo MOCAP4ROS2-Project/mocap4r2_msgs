@@ -2,9 +2,9 @@
   <name>mocap_msgs</name>
   <version>0.0.2</version>
   <description>mocap_msgs</description>
-  <author>Lorena Bajo</author>
-  <maintainer email="lorena.bajo@urjc.es">David Vargas</maintainer>
-  <license>BSD</license>
+  <author email="fmrico@gmail.com">Francisco Martín</author>
+  <maintainer email="fmrico@gmail.com">Francisco Martín</maintainer>
+  <license>Apache License, Version 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
