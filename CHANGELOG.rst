@@ -2,6 +2,17 @@
 Changelog for package mocap_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* new message for multiple rigid bodies
+* Fix Markers to Marker
+* Proposal with both
+* Proposal for definitive format
+* Change idx (int) to name (string)
+* Add markers indexes
+* Add Rigid Body description
+* Contributors: Francisco Martín Rico, José Miguel Guerrero, jmguerreroh
+
 0.0.3 (2021-05-18)
 ------------------
 * Change license
