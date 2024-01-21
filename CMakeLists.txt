@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(mocap_msgs)
+project(mocap4r2_msgs)
 
 find_package(ament_cmake)
 find_package(rosidl_default_generators REQUIRED)
@@ -21,7 +21,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 )
 
 install(
-  FILES mocap_bridge_mapping_rule.yaml
+  FILES mocap4r2_bridge_mapping_rule.yaml
   DESTINATION share/${PROJECT_NAME}
 )
 

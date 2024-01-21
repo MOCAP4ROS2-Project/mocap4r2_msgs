@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package mocap_msgs
+Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forthcoming
+-----------
+* Rename mocap to mocap4r2 to meet with REP 144
+* Contributors: Francisco Martín Rico
 
 0.0.4 (2024-01-09)
 ------------------
