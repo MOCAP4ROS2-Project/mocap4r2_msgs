@@ -1,5 +1,5 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package mocap_msgs
+Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Forthcoming

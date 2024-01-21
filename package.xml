@@ -1,7 +1,7 @@
 <package format="3">
-  <name>mocap_msgs</name>
+  <name>mocap4r2_msgs</name>
   <version>0.0.3</version>
-  <description>mocap_msgs</description>
+  <description>mocap4r2_msgs</description>
   <author email="fmrico@gmail.com">Francisco Martín</author>
   <maintainer email="fmrico@gmail.com">Francisco Martín</maintainer>
   <license>Apache License, Version 2.0</license>
@@ -21,7 +21,7 @@
 
   <export>
     <build_type>ament_cmake</build_type>
-    <ros1_bridge mapping_rules="mocap_bridge_mapping_rule.yaml" />
+    <ros1_bridge mapping_rules="mocap4r2_bridge_mapping_rule.yaml" />
   </export>
 
 </package>
