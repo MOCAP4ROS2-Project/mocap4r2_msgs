@@ -2,6 +2,11 @@
 Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Packaging for Jazzy 
+* Contributors: Francisco Martín Rico, José Miguel Guerrero
+
 0.0.6 (2025-11-19)
 ------------------
 * Rename mocap\_ to mocap4r2\_ to meet with REP 144
