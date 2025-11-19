@@ -2,7 +2,18 @@
 Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.4 (2025-11-19)
+Forthcoming
+-----------
+* Rename mocap\_ to mocap4r2\_ to meet with REP 144
+* new message for multiple rigid bodies
+* Fix Markers -> Marker
+* Proposal for definitive format
+* Add Rigid Body description
+* Change idx (int) to name (string)
+* Add markers indexes
+* Contributors: Francisco Martín Rico, José Miguel Guerrero
+
+* 0.0.4 (2025-11-19)
 ------------------
 * new message for multiple rigid bodies
 * Fix Markers to Marker
