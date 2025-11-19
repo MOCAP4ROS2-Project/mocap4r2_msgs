@@ -13,7 +13,12 @@ Forthcoming
 * Add markers indexes
 * Contributors: Francisco Martín Rico, José Miguel Guerrero
 
-* 0.0.4 (2025-11-19)
+0.0.5 (2024-01-21)
+------------------
+* Rename mocap to mocap4r2 to meet with REP 144
+* Contributors: Francisco Martín Rico
+
+0.0.4 (2024-01-09)
 ------------------
 * new message for multiple rigid bodies
 * Fix Markers to Marker

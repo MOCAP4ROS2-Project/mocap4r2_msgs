@@ -1,6 +1,10 @@
 <package format="3">
   <name>mocap4r2_msgs</name>
+<<<<<<< HEAD
   <version>0.0.4</version>
+=======
+  <version>0.0.5</version>
+>>>>>>> humble-devel
   <description>mocap4r2_msgs</description>
   <author email="fmrico@gmail.com">Francisco Martín</author>
   <maintainer email="fmrico@gmail.com">Francisco Martín</maintainer>
