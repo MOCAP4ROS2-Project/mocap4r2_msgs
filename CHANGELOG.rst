@@ -2,6 +2,11 @@
 Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Packaging for Kilted 
+* Contributors: Francisco Martín Rico, José Miguel Guerrero
+
 0.1.0 (2025-11-19)
 ------------------
 * Packaging for Jazzy 
