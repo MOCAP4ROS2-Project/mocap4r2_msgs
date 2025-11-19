@@ -1,11 +1,9 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>mocap4r2_msgs</name>
-<<<<<<< HEAD
-  <version>0.0.4</version>
-=======
   <version>0.0.5</version>
->>>>>>> humble-devel
-  <description>mocap4r2_msgs</description>
+  <description>Interfaces for Mocap4ROS2 project</description>
   <author email="fmrico@gmail.com">Francisco Martín</author>
   <maintainer email="fmrico@gmail.com">Francisco Martín</maintainer>
   <license>Apache License, Version 2.0</license>
