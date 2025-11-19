@@ -2,8 +2,8 @@
 Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2025-11-19)
+------------------
 * Packaging for Jazzy 
 * Contributors: Francisco Martín Rico, José Miguel Guerrero
 
