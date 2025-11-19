@@ -2,8 +2,8 @@
 Changelog for package mocap4r2_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2025-11-19)
+------------------
 * new message for multiple rigid bodies
 * Fix Markers to Marker
 * Proposal with both
